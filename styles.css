@@ -1,0 +1,32 @@
+a {
+  color: greenyellow;
+  text-decoration: none;
+}
+
+body {
+  height: 1000px;
+}
+
+.jeffthekiller {
+  border-radius: 50px;
+  
+  width: 300px;
+  float: left;
+}
+
+.slenderman {
+  border-radius: 50px;
+
+  width: 300px;
+  float: right;
+}
+
+p {
+  color: white;
+}
+
+audio {
+  margin-top: 600px;
+  margin-right: 1500px;
+}
+
